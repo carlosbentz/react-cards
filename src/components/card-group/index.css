@@ -1,0 +1,7 @@
+.cardGroup {
+  display: flex;
+
+  border: 1px solid #cad0d2;
+  border-radius: 4px;
+  overflow: hidden;
+}
